@@ -99,8 +99,8 @@ Voor ons bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom mo
       <td>De grijze/De witte</td>
     </tr>
     <tr>
-      <td><img src="doc\img\geld_spiraal–unittest\grijze.png"  width="200" height="100%" ></img>
-      <img src="doc\img\geld_spiraal–unittest\witte.png"   width="200" height="100%"  ></img></td>
+      <td><img src="doc\img\geldautomaat_spiraal–unittest\grijze.png"  width="200" height="100%" ></img>
+      <img src="doc\img\geldautomaat_spiraal–unittest\witte.png"   width="200" height="100%"  ></img></td>
     </tr>
     <tr>
       <td>De grijze spiraal is hetzelfde als de witte, maar we hebben ondersteuning gebruikt tijdens het printen. Hierdoor ziet het er beter uit en zijn de cirkels gladder, waardoor het papier niet vast komt te zitten. Helaas hebben we te veel ruimte tussen de cirkels weggehaald, waardoor de ruimte te krap was en de cirkels te zwak waren. Deze poging voldeed daarom niet aan onze eisen.</td>
@@ -117,8 +117,8 @@ Voor ons bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom mo
       <th>Poging 2</th>
     </tr>
     <tr>
-      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding1.png" width="200" height="100%">
-      <img src="doc\img\geld_spiraal–unittest\Afbeelding2.png" width="200" height="100%"></td>
+      <td><img src="doc\img\geldautomaat_spiraal–unittest\Afbeelding1.png" width="200" height="100%">
+      <img src="doc\img\geldautomaat_spiraal–unittest\Afbeelding2.png" width="200" height="100%"></td>
     </tr>
     <tr>
       <td><p>Bij deze spiraal hebben we meer ruimte voor het papier gemaakt door de afstand tussen de cirkels en de diameter van de cirkels te verminderen. Helaas hebben we te veel afstand weggehaald, waardoor de ruimte te krap was en de cirkels te zwak waren. Deze poging voldeed daarom ook niet aan onze eisen.</p></td>
@@ -132,7 +132,7 @@ Voor ons bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom mo
       <th>Poging 3</th>
     </tr>
     <tr>
-      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding3.png" width="200" height="100%"></td>
+      <td><img src="doc\img\geldautomaat_spiraal–unittest\Afbeelding3.png" width="200" height="100%"></td>
     </tr>
     <tr>
       <td><p>Bij deze poging hebben we geprobeerd staaldraad te gebruiken, omdat dit stevig is en vervormd kan worden. We hebben een stuk hout gebruikt om de draad omheen te draaien en het daarna een tijdje laten zitten om te zorgen dat het goed bleef zitten. Helaas bleek na het verwijderen van de draad dat deze zeer asymmetrisch was en niet bruikbaar was. We zijn daarom teruggegaan naar de 3D-printer.</p></td>
@@ -146,7 +146,7 @@ Voor ons bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom mo
       <th>Poging 4</th>
     </tr>
     <tr>
-      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding4.png" width="200" height="100%"> </tr>
+      <td><img src="doc\img\geldautomaat_spiraal–unittest\Afbeelding4.png" width="200" height="100%"> </tr>
     <tr>
       <td><p>Bij deze 3D-print hebben we ondersteuning gebruikt en hebben we de afmetingen op alle mogelijke manieren geoptimaliseerd (dikte, afstand tussen de cirkels en de voet van de print). Dit zou de definitieve versie worden, maar helaas is de 3D-printer uitgevallen en konden we niet verder gaan. We hebben daarom maar de helft van de spiraal kunnen printen. Desondanks zijn we zeer tevreden met het resultaat en zullen we dit gebruiken in onze geldautomaat.</p></td>
     </tr>
