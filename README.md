@@ -115,16 +115,11 @@ Voor het bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom mo
     </tr>
     <tr>
       <td><img src="doc\img\geld_spiraal–unittest\Afbeelding1.png"   width="200" height="100%" ></img></td>
-      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding2.png"   width="550" height="100%"  ></img></td>
-    </tr>
-    <tr>
-      <td>Bij deze spiraal hebben we meer ruimte voor het papier gemaakt door de afstand tussen de cirkels en de diameter van de cirkels te verminderen. Helaas hebben we te veel afstand weggehaald, waardoor de ruimte te krap was en de cirkels te zwak waren. Deze poging voldeed daarom ook niet aan onze eisen.</td>
-      <td></td>
+      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding2.png"   width="200" height="100%"  ></img></td>
     </tr>
   </tbody>
 </table>
-
-
+Bij deze spiraal hebben we meer ruimte voor het papier gemaakt door de afstand tussen de cirkels en de diameter van de cirkels te verminderen. Helaas hebben we te veel afstand weggehaald, waardoor de ruimte te krap was en de cirkels te zwak waren. Deze poging voldeed daarom ook niet aan onze eisen.
 
 Poging #3
 <img src="image_file_name.png" alt="image_description">
