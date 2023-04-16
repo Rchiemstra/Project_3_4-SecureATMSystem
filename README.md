@@ -82,7 +82,8 @@ src: Deze map bevat alle broncode voor het project, georganiseerd in verschillen
 
 ### unittest
 
-Geld spiraal
+
+Geldautomaat spiraal - Unit test
 
 Voor ons bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom moeten we een systeem bedenken dat veilig is en geen geld verliest. We hebben besloten om een spiraal te gebruiken waar het geld uit kan vallen. Om zo'n spiraal te maken, hebben we verschillende methoden uitgeprobeerd: het vervormen van staaldraad, 3D-printen en online zoeken. Hieronder beschrijven we de stappen die we hebben genomen tot aan onze beslissing.
 
