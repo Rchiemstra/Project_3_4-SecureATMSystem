@@ -85,6 +85,7 @@ src: Deze map bevat alle broncode voor het project, georganiseerd in verschillen
 Geld spiraal
 
 Voor het bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom moeten we een systeem bedenken dat veilig is en geen geld verliest. We hebben besloten om een spiraal te gebruiken waar het geld uit kan vallen. Om zo'n spiraal te maken, hebben we verschillende dingen geprobeerd: het vervormen van staaldraad, 3D-printen en zoeken op internet. Hieronder beschrijven we de stappen die we hebben genomen tot aan onze beslissing.
+
 <table >
   <tbody>
     <tr>
@@ -96,31 +97,34 @@ Voor het bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom mo
       <td>De witte</td>
     </tr>
     <tr>
-      <td><img src="doc\img\geld_spiraal–unittest\grijze.png" alt="image_description"></img></td>
-      <td><img src="doc\img\geld_spiraal–unittest\witte.png" alt="image_description"></img></td>
+      <td><img src="doc\img\geld_spiraal–unittest\grijze.png"  width="200" height="100%" ></img></td>
+      <td><img src="doc\img\geld_spiraal–unittest\witte.png"   width="200" height="100%"  ></img></td>
     </tr>
     <tr>
-      <td>Voor het bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom moeten we een systeem bedenken dat veilig is en geen geld verliest. We hebben besloten om een spiraal te gebruiken waar het geld uit kan vallen. Om zo'n spiraal te maken, hebben we verschillende dingen geprobeerd: het vervormen van staaldraad, 3D-printen en zoeken op internet. Hieronder beschrijven we de stappen die we hebben genomen tot aan onze beslissing.</img></td>
-      <td>De grijze spiraal is hetzelfde als de witte, maar we hebben ondersteuning gebruikt tijdens het printen. Hierdoor ziet het er beter uit en zijn de cirkels gladder, waardoor het papier niet vast komt te zitten.</img></td>
+      <td>Voor het bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom moeten we een systeem bedenken dat veilig is en geen geld verliest. We hebben besloten om een spiraal te gebruiken waar het geld uit kan vallen. Om zo'n spiraal te maken, hebben we verschillende dingen geprobeerd: het vervormen van staaldraad, 3D-printen en zoeken op internet. Hieronder beschrijven we de stappen die we hebben genomen tot aan onze beslissing.</td>
+      <td>De grijze spiraal is hetzelfde als de witte, maar we hebben ondersteuning gebruikt tijdens het printen. Hierdoor ziet het er beter uit en zijn de cirkels gladder, waardoor het papier niet vast komt te zitten.</td>
+    </tr>
+  </tbody>
+</table>
+
+<table >
+  <tbody>
+    <tr>
+      <th>Poging 2</th>
+      <th></th>
+    </tr>
+    <tr>
+      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding1.png"   width="200" height="100%" ></img></td>
+      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding2.png"   width="550" height="100%"  ></img></td>
+    </tr>
+    <tr>
+      <td>Bij deze spiraal hebben we meer ruimte voor het papier gemaakt door de afstand tussen de cirkels en de diameter van de cirkels te verminderen. Helaas hebben we te veel afstand weggehaald, waardoor de ruimte te krap was en de cirkels te zwak waren. Deze poging voldeed daarom ook niet aan onze eisen.</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
 
-
-    De grijze:
-
-    <img src="image_file_name.png" alt="image_description"></img>
-
-    De grijze spiraal is hetzelfde als de witte, maar we hebben ondersteuning gebruikt tijdens het printen. Hierdoor ziet het er beter uit en zijn de cirkels gladder, waardoor het papier niet vast komt te zitten.
-
-
-
-Poging #2
-<img src="image_file_name.png" alt="image_description">
-<img src="image_file_name.png" alt="image_description">
-
-Bij deze spiraal hebben we meer ruimte voor het papier gemaakt door de afstand tussen de cirkels en de diameter van de cirkels te verminderen. Helaas hebben we te veel afstand weggehaald, waardoor de ruimte te krap was en de cirkels te zwak waren. Deze poging voldeed daarom ook niet aan onze eisen.
 
 Poging #3
 <img src="image_file_name.png" alt="image_description">
