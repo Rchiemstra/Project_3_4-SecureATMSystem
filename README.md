@@ -11,13 +11,67 @@ Elke groep zal een land vertegenwoordigen en een eigen bank oprichten. Het proje
 Dit project biedt studenten de kans om in een realistische omgeving te werken aan een complex systeem en belangrijke technische vaardigheden te ontwikkelen, zoals systeemarchitectuur, software- en hardwareontwerp en beveiligingsimplementatie.
 
 
+### Team 
+|      Naam             |    LinkedIn          |
+|--------------------   |----------------------|
+| Ruben Hiemstra        | [LinkedIn](https://www.linkedin.com/in/ruben-hiemstra-84b9b6127/)      |
+| TBA                   | [LinkedIn]        |
+| TBA                   | [LinkedIn]        |
+| TBA                   | [LinkedIn]        |
+| TBA                   | [LinkedIn]        |
 
+### Bestanden / Files
+
+1. Groep: Bevat bestanden met betrekking tot groepssamenwerking, waaronder code voor Arduino en Java, projectdocumentatie en ontwerpbstanden.
+
+2. Media: Bevat media-bestanden met betrekking tot het project, waaronder video's en afbeeldingen van geldautomaten en gelddispensers.
+
+3. Persoonlijk: Bevat persoonlijke code-bestanden met betrekking tot Arduino en Java, evenals ontwerpbstanden voor componenten van geldautomaten en gelddispensers.
+
+
+
+
+
+
+### Media 
 
 ## Rubben Hiemstra
 
-### Media
-
-### Pinapparaat
+#### Ontwerp pinautomaat 
 <a href="https://youtu.be/MVlD1MDzszY" target="_blank"   rel="noopener"  >
-    <img src="https://img.youtube.com/vi/MVlD1MDzszY/2.jpg" />
+    <img src="https://img.youtube.com/vi/MVlD1MDzszY/2.jpg" width="480" height="360" />
 </a>
+
+#### Test pinautomaat 
+<a href="https://youtu.be/q1xSIUnEXdo" target="_blank"   rel="noopener"  >
+    <img src="https://img.youtube.com/vi/q1xSIUnEXdo/0.jpg" width="480" height="360" />
+</a>
+
+## Groepsgedeelte
+
+#### Ontwerp geldlade
+<a href="https://youtu.be/ZYODidJn9q8" target="_blank"   rel="noopener"  >
+    <img src="https://img.youtube.com/vi/ZYODidJn9q8/0.jpg" width="480" height="360" />
+</a>
+
+#### Ontwerp geldlades
+<a href="https://youtu.be/2BWyQDWWHVI" target="_blank"   rel="noopener"  >
+    <img src="https://img.youtube.com/vi/2BWyQDWWHVI/0.jpg" width="480" height="360" />
+</a>
+
+#### Pinpas blokkeren voor alle bij alle pinautomaten
+<a href="https://youtu.be/CWAH8InKsuk" target="_blank"   rel="noopener"  >
+    <img src="https://img.youtube.com/vi/CWAH8InKsuk/0.jpg" width="480" height="360" />
+</a>
+
+#### Meerdere pinautomaten tegelijk
+<a href="https://youtu.be/7Nd1Y9njzbA" target="_blank"   rel="noopener"  >
+    <img src="https://img.youtube.com/vi/7Nd1Y9njzbA/0.jpg" width="480" height="360" />
+</a>
+
+
+
+
+
+
+
