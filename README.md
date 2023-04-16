@@ -22,12 +22,15 @@ Dit project biedt studenten de kans om in een realistische omgeving te werken aa
 
 ### Bestanden / Files
 
-1. Groep: Bevat bestanden met betrekking tot groepssamenwerking, waaronder code voor Arduino en Java, projectdocumentatie en ontwerpbstanden.
+doc: Deze map bevat documentatie over het project. Er is een submap genaamd "Fusion360" die 3D-modellen bevat van verschillende componenten in het project, zoals geldautomaten en pinautomaten. Er is ook een PDF-bestand genaamd "pinautomaat v6 v16.pdf" dat een tekening bevat van een pinautomaat.
 
-2. Media: Bevat media-bestanden met betrekking tot het project, waaronder video's en afbeeldingen van geldautomaten en gelddispensers.
+img: Deze map bevat afbeeldingen die in het project worden gebruikt. Er zijn drie JPEG-bestanden genaamd "10_euro.jpeg", "20_euro.jpeg" en "50_euro.jpeg" die afbeeldingen bevatten van eurobiljetten.
 
-3. Persoonlijk: Bevat persoonlijke code-bestanden met betrekking tot Arduino en Java, evenals ontwerpbstanden voor componenten van geldautomaten en gelddispensers.
+src: Deze map bevat alle broncode voor het project, georganiseerd in verschillende submappen.
 
+Arduino: Deze map bevat de broncode voor de Arduino-microcontroller die wordt gebruikt in het project. Er zijn verschillende submappen binnen "Arduino" die code bevatten voor specifieke componenten en functies, waaronder tests voor verschillende componenten zoals RFID-kaarten en keypads, code voor het printen van bonnen en code voor de master- en node-nodes.
+
+UI: Deze map bevat de broncode voor de gebruikersinterface van het bankgedeelte van het project, geschreven in Java. Er is een submap genaamd ".vscode" met instellingen voor de Visual Studio Code-editor. De "bank" submap bevat broncode voor het beheer van rekeningen, pinautomaten en geldautomaten, evenals tests en afbeeldingen.
 
 
 
