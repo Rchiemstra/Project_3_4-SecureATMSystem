@@ -90,19 +90,19 @@ Voor het bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom mo
   <tbody>
     <tr>
       <th>Poging 1</th>
-      <th></th>
     </tr>
     <tr>
-      <td>De grijze</td>
-      <td>De witte</td>
+      <td>De grijze/De witte</td>
     </tr>
     <tr>
-      <td><img src="doc\img\geld_spiraal–unittest\grijze.png"  width="200" height="100%" ></img></td>
-      <td><img src="doc\img\geld_spiraal–unittest\witte.png"   width="200" height="100%"  ></img></td>
+      <td><img src="doc\img\geld_spiraal–unittest\grijze.png"  width="200" height="100%" ></img>
+      <img src="doc\img\geld_spiraal–unittest\witte.png"   width="200" height="100%"  ></img></td>
     </tr>
     <tr>
-      <td>Voor het bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom moeten we een systeem bedenken dat veilig is en geen geld verliest. We hebben besloten om een spiraal te gebruiken waar het geld uit kan vallen. Om zo'n spiraal te maken, hebben we verschillende dingen geprobeerd: het vervormen van staaldraad, 3D-printen en zoeken op internet. Hieronder beschrijven we de stappen die we hebben genomen tot aan onze beslissing.</td>
       <td>De grijze spiraal is hetzelfde als de witte, maar we hebben ondersteuning gebruikt tijdens het printen. Hierdoor ziet het er beter uit en zijn de cirkels gladder, waardoor het papier niet vast komt te zitten.</td>
+    </tr>
+    <tr>
+      <td>De witte Dit is een klein stukje van een 3D-geprinte spiraal. We hebben geen ondersteuning gebruikt bij het printen, dus er hangt gesmolten plastic aan de onderkant dat het papier kan vasthouden. Ook was de ruimte tussen de cirkels waar het papier doorheen gaat te groot, waardoor we maar weinig papier konden vasthouden. Om meer papier op te slaan, moeten we de diameter of de dikte van de cirkels verminderen om meer ruimte te creëren.</td>
     </tr>
   </tbody>
 </table>
@@ -122,12 +122,31 @@ Voor het bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom mo
   </tbody>
 </table>
 
+<table>
+  <tbody>
+    <tr>
+      <th>Poging 3</th>
+    </tr>
+    <tr>
+      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding3.png" width="200" height="100%"></td>
+    </tr>
+    <tr>
+      <td><p>Bij deze poging hebben we geprobeerd staaldraad te gebruiken, omdat dit stevig is en vervormd kan worden. We hebben een stuk hout gebruikt om de draad omheen te draaien en het daarna een tijdje laten zitten om te zorgen dat het goed bleef zitten. Helaas bleek na het verwijderen van de draad dat deze zeer asymmetrisch was en niet bruikbaar was. We zijn daarom weer teruggegaan naar de 3D-printer.</p></td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody>
+    <tr>
+      <th>Poging 4</th>
+    </tr>
+    <tr>
+      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding4.png" width="200" height="100%"> </tr>
+    <tr>
+      <td><p>Bij deze 3D-print hebben we ondersteuning gebruikt en hebben we de afmetingen op alle mogelijke manieren geoptimaliseerd (dikte, afstand tussen de cirkels en de voet van de print). Dit zou de definitieve versie worden, maar helaas is de 3D-printer uitgevallen en konden we niet verder gaan. We hebben daarom maar de helft van de spiraal kunnen printen. Desondanks zijn we zeer tevreden met het resultaat en zullen we dit gebruiken in onze dispenser</p></td>
+    </tr>
+  </tbody>
+</table>
 
 
-Poging #3
-<img src="image_file_name.png" alt="image_description">
-
-Bij deze poging hebben we geprobeerd staaldraad te gebruiken, omdat dit stevig is en vervormd kan worden. We hebben een stuk hout gebruikt om de draad omheen te draaien en het daarna een tijdje laten zitten om te zorgen dat het goed bleef zitten. Helaas bleek na het verwijderen van de draad dat deze zeer asymmetrisch was en niet bruikbaar was. We zijn daarom weer teruggegaan naar de 3D-printer.
-
-Poging #4
-Bij deze 3D-print hebben we ondersteuning gebruikt en hebben we de afmetingen op alle mogelijke manieren geoptimaliseerd (dikte, afstand tussen de cirkels en de voet van de print). Dit zou de definitieve versie worden, maar helaas is de 3D-printer uitgevallen en konden we niet verder gaan. We hebben daarom maar de helft van de spiraal kunnen printen. Desondanks zijn we zeer tevreden met het resultaat en zullen we dit gebruiken in onze dispenser
