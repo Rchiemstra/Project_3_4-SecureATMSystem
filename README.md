@@ -107,19 +107,23 @@ Voor het bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom mo
   </tbody>
 </table>
 
-<table >
+<table>
   <tbody>
     <tr>
       <th>Poging 2</th>
       <th></th>
     </tr>
     <tr>
-      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding1.png"   width="200" height="100%" ></img></td>
-      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding2.png"   width="200" height="100%"  ></img></td>
+      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding1.png" width="200" height="100%"></td>
+      <td><img src="doc\img\geld_spiraal–unittest\Afbeelding2.png" width="200" height="100%"></td>
+    </tr>
+    <tr>
+      <td><p>Bij deze spiraal hebben we meer ruimte voor het papier gemaakt door de afstand tussen de cirkels en de diameter van de cirkels te verminderen. Helaas hebben we te veel afstand weggehaald, waardoor de ruimte te krap was en de cirkels te zwak waren. Deze poging voldeed daarom ook niet aan onze eisen.</p></td>
     </tr>
   </tbody>
 </table>
-Bij deze spiraal hebben we meer ruimte voor het papier gemaakt door de afstand tussen de cirkels en de diameter van de cirkels te verminderen. Helaas hebben we te veel afstand weggehaald, waardoor de ruimte te krap was en de cirkels te zwak waren. Deze poging voldeed daarom ook niet aan onze eisen.
+
+
 
 Poging #3
 <img src="image_file_name.png" alt="image_description">
