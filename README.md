@@ -111,7 +111,6 @@ Voor het bankproject moeten we geld kunnen afgeven nadat er is gepind. Daarom mo
   <tbody>
     <tr>
       <th>Poging 2</th>
-      <th></th>
     </tr>
     <tr>
       <td><img src="doc\img\geld_spiraal–unittest\Afbeelding1.png" width="200" height="100%">
