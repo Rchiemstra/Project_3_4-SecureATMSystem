@@ -17,7 +17,7 @@ Dit project biedt studenten de kans om in een realistische omgeving te werken aa
 | Naam                 | LinkedIn                                                                |
 | -------------------- | ----------------------------------------------------------------------- |
 | Ruben Hiemstra       | [LinkedIn](https://www.linkedin.com/in/ruben-hiemstra-84b9b6127/)       |
-| TBA                  | [LinkedIn]                                                              |
+| Keanu van der Linden | [LinkedIn](https://github.com/KeanuLin)                                 |
 | TBA                  | [LinkedIn]                                                              |
 | TBA                  | [LinkedIn]                                                              |
 | TBA                  | [LinkedIn]                                                              |
